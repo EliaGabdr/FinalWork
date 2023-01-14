@@ -13,5 +13,14 @@
 https://github.com/EliaGabdr/FinalWork
 2. ![no image](Диаграмма.png)
 3. В процессе.
-4. 
-
+4. Решение задачи в файле Program.cs.
+5. Список коммитов по команде git log:
+* began to fill README.md
+* add 3
+* add 4
+* add 5
+* clear
+* clear 2
+* program launch
+* add new console
+* final commit
