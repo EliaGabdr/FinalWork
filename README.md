@@ -11,3 +11,7 @@
 
 1. Ссылка на созданный репозиторий:
 https://github.com/EliaGabdr/FinalWork
+2. ![no image](Диаграмма.png)
+3. В процессе.
+4. 
+
